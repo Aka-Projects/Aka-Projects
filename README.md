@@ -1,5 +1,5 @@
-### Hi there , I´m AKA👋👨🏻‍💻
-<h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### 
+<h2> Hi there , I´m AKA👋👨🏻‍💻! <img src="https://external-preview.redd.it/q5MLDalW_jS74qaBoQo614acbnD8k0u20T9TlZErgBI.gif?format=mp4&v=enabled&s=4bf18ee1e242a20d5d9de018d6e957024af51f59" width="50"></h2>
 <!--
 **Aka-Projects/Aka-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
