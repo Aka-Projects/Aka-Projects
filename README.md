@@ -1,6 +1,8 @@
 ### 
 <h2> Hi there , I´m AKA👋👨🏻‍💻! .<br /><img src="https://gifdb.com/images/high/code-geass-hacker-lloyd-asplund-is-in-rxmst2x1ywm34ste.webp" width="175" img align='right'></h2>
-<p><em>Software Enginner at <a href="https://utp.ac.pa/">Universidad tecnologica de Panamá</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Student of Software Enginner at <a href="https://utp.ac.pa/">Universidad tecnologica de Panamá</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+
+   [![Twitter: Andres V](https://img.shields.io/twitter/follow/AndresVega?style=social)](https://twitter.com/YahirVe12090141)
 <!--
 **Aka-Projects/Aka-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
