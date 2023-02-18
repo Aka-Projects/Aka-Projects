@@ -3,7 +3,7 @@
 <p><em>Student of Software Enginner at <a href="https://utp.ac.pa/">Universidad tecnologica de Panamá</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
    [![Twitter: Andres V](https://img.shields.io/twitter/follow/AndresVega?style=social)](https://twitter.com/YahirVe12090141)
-   [![Linkedin: Andres V](https://img.shields.io/badge/-andresvega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/andr%C3%A9s-vega-678a5b251/)][(https://www.linkedin.com/in/andr%C3%A9s-vega-678a5b251/)
+   [![Linkedin: Andres V](https://img.shields.io/badge/-andresvega-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/andr%C3%A9s-vega-678a5b251/)](https://www.linkedin.com/in/andr%C3%A9s-vega-678a5b251/)
 
    <!--
 **Aka-Projects/Aka-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
