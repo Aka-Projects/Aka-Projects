@@ -17,11 +17,3 @@ Another skill that sets me apart is my adaptability to new and changing situatio
 
 In summary, I am a Panamanian student of Software Engineering who is passionate, curious, creative, perseverant, communicative, responsible, organized, and adaptable, with a strong desire to learn and grow professionally.
    
-```javascript
-const Andrés = {
-  pronouns: "he" | "him",
-  code: [Javascript, C, HTML, CSS, Python, Java],
-  tools: [Loading...],
- 
- challenge: "I am doing an OpenBootcamp"
-}
